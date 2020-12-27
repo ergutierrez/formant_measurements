@@ -1,4 +1,4 @@
-# formant_measurements
+# Formant Measurements
 This repository contains code for a complete program that obtains formant values (mean and mid-point) for the first 4 formants of any vowel (the example displayed here shows the vowel "i").
 
 ## NB
